@@ -1,0 +1,9 @@
+composer require laravel/ui
+php artisan ui bootstrap
+ensuite tu vas dans ton package.json
+tu change la version de bootstrap en 5.0.2
+ensuite tu fais un npm install @popperjs/core
+puis un npm install
+puis npm run dev
+et encore un npm run dev
+je link mon css et js avec la méthode asset()
