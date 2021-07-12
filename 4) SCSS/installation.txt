@@ -1,0 +1,4 @@
+installer dépendance mix (package.json/laravel-mix) (npm install)
+écrire tout dans le resources et compiler vers le public
+webpack.mix.js sass/postCss pour compiler
+npm run dev // watch (si pc lent)
