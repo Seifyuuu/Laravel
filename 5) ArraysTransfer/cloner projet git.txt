@@ -1,0 +1,5 @@
+[1035] Fanny🦀 1. git clone dans le dossier www de laragon
+[1035] Fanny🦀 2. npm i && composer i
+[1035] Fanny🦀 3. Renommer le .env.example en .env
+[1036] Fanny🦀 4. php artisan keygenerate
+[1036] Fanny🦀 5. enjoy !
