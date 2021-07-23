@@ -7,3 +7,9 @@ Semaine 1 (07/07-09/07)
 Semaine 2 (12/07-16/07)
 - SCSS
 - Controllers
+- Models 
+
+Semaine 3 
+- SQL / phpMyAdmin
+- Migration
+- CRUD 
